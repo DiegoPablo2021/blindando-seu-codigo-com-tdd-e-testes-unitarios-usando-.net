@@ -1,0 +1,15 @@
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\bin\Debug\net6.0\TestesUnitarios.Console.exe
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\bin\Debug\net6.0\TestesUnitarios.Console.deps.json
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\bin\Debug\net6.0\TestesUnitarios.Console.runtimeconfig.json
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\bin\Debug\net6.0\TestesUnitarios.Console.dll
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\bin\Debug\net6.0\TestesUnitarios.Console.pdb
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\obj\Debug\net6.0\TestesUnitarios.Console.csproj.AssemblyReference.cache
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\obj\Debug\net6.0\TestesUnitarios.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\obj\Debug\net6.0\TestesUnitarios.Console.AssemblyInfoInputs.cache
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\obj\Debug\net6.0\TestesUnitarios.Console.AssemblyInfo.cs
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\obj\Debug\net6.0\TestesUnitarios.Console.csproj.CoreCompileInputs.cache
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\obj\Debug\net6.0\TestesUnitarios.Console.dll
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\obj\Debug\net6.0\refint\TestesUnitarios.Console.dll
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\obj\Debug\net6.0\TestesUnitarios.Console.pdb
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\obj\Debug\net6.0\TestesUnitarios.Console.genruntimeconfig.cache
+C:\Projetos\trilha-net-tdd-testes-unitarios-desafio\TestesUnitarios.Console\obj\Debug\net6.0\ref\TestesUnitarios.Console.dll
